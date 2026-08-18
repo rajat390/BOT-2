@@ -1,1 +1,7 @@
+pyrogram
+tgcrypto
+pysocks
+pyaes
+motor
+pymongo
 
